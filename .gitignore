@@ -1,0 +1,6 @@
+# Never commit keys, sign-up exports or encrypted files
+*.key
+*-key.txt
+*.csv
+*.age
+.DS_Store
